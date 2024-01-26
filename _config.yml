@@ -10,6 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
  I'm all about sharing experiences, insights, and some killer recipes that add flavor to my life. Let's dive in and have some fun together!
   <br><br>
   <a href="https://www.linkedin.com/in/hala-abueideh">View My LinkedIn Profile</a> 
-  
-theme: jekyll-theme-minimal
+  <br><br>
+  <br><br>
+  theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
