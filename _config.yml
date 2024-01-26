@@ -1,8 +1,15 @@
-title: Hala Abueideh # your name (or website title) here
+title:  # your name (or website title) here
 logo: "/images/20468.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I love Data and everything about it!  <br><br>
+  Hey there!
+I'm Hala Abueideh, and I've always been a bit of a data enthusiast, constantly intrigued by uncovering those hidden relationships. My journey has been pretty wild, dipping my toes into different fields and picking up a solid knowledge base along the way. From diving into data analysis complexity to exploring the mash-up of various disciplines, I love connecting the dots between seemingly unrelated stuff. It's like solving a puzzle where every piece has its own story.
+But when I'm not lost in the world of data, you'll find me in the kitchen, whipping up something tasty for my family. Cooking is my other happy place—it's like a delicious blend of art and science.
+So, join me as I navigate through this data-filled adventure, make connections, and sprinkle a bit of creativity in everything I do. I'm all about sharing experiences, insights, and some killer recipes that add flavor to my life.
+Let's dive in and have some fun together!
+
+Hala Abueideh
+  <br><br>
   <a href="https://www.linkedin.com/in/hala-abueideh">View My LinkedIn Profile</a> 
   
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
