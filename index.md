@@ -20,12 +20,12 @@ My final write up for Avery Smith's 21 Days To Data project covering New York Ci
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
+#### [DoorDash Project](https://www.linkedin.com/pulse/ifood-numbers-analysis-year-hala-abueideh-nfr3c/?trackingId=CnpJ2wQ1SP6ZBMoiZtf6vw%3D%3D)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+In this case study from Data Analytics Accelerator, I was prompted to analyze the data of a food delivery service. The main focuses were:
+What age segment is more interested in food delivery service?
+Who spends the most?
+What is the relationship between income and expenditure? 
 
 ---
 
