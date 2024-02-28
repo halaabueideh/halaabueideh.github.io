@@ -17,7 +17,7 @@ What is the relationship between income and expenditure?
 
 ---
 #### [SQL Healthcare Project](/https://www.linkedin.com/pulse/sql-healthcare-project-hala-abueideh-1mhgc/?trackingId=04Gr9pCJTmi5XfiwfrnlqQ%3D%3D )
- [<img src="images/Project Write up .jpeg"/>] (/https://www.linkedin.com/pulse/sql-healthcare-project-hala-abueideh-1mhgc/?trackingId=04Gr9pCJTmi5XfiwfrnlqQ%3D%3D )
+ <img src="images/Project Write up .jpeg"/> (/https://www.linkedin.com/pulse/sql-healthcare-project-hala-abueideh-1mhgc/?trackingId=04Gr9pCJTmi5XfiwfrnlqQ%3D%3D )
  For this project, I used SQL to analyze healthcare databases.
 
 
