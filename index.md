@@ -21,6 +21,10 @@ What is the relationship between income and expenditure?
 [<img src="images/Project Write up .jpeg"/>](https://www.linkedin.com/pulse/sql-healthcare-project-hala-abueideh-1mhgc/?trackingId=66Ma7TdIQP2Cs5P4BjjYHQ%3D%3D)
 SQL is used to analyze a database for patients across the United States.  
 
+#### [NBA Project](https://public.tableau.com/app/profile/hala.abueideh/viz/NBAproject_17094247499240/Analysisformar2nd2024?publish=yes)
+ [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days- data-avery-smith)
+ NBA data was analyzed and visualized using Tableau. Scores, Positions, players, and teams visuals were created using Tableau.
+
 
 
 
