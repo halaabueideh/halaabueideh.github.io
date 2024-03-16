@@ -23,7 +23,7 @@ SQL is used to analyze a database for patients across the United States.
 
 #### [NBA Project](https://public.tableau.com/app/profile/hala.abueideh/viz/NBAproject_17094247499240/Analysisformar2nd2024?publish=yes)
  [<img src="images/NBA LOGO.png"/>](https://public.tableau.com/app/profile/hala.abueideh/viz/NBAproject_17094247499240/Analysisformar2nd2024?publish=yes)
- 2021 NBA data was analyzed and visualized using Tableau. Scores, Positions, players, and teams visuals were created using Tableau.
+2021 NBA data was analyzed and visualized using Tableau. Scores, Positions, players, and teams visuals were created using Tableau.
 
 
 
