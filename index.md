@@ -19,7 +19,7 @@ What is the relationship between income and expenditure?
 
 ### [SQL Healthcare Project](https://www.linkedin.com/pulse/sql-healthcare-project-hala-abueideh-1mhgc/?trackingId=66Ma7TdIQP2Cs5P4BjjYHQ%3D%3D )
 [<img src="images/Project Write up .jpeg"/>](https://www.linkedin.com/pulse/sql-healthcare-project-hala-abueideh-1mhgc/?trackingId=66Ma7TdIQP2Cs5P4BjjYHQ%3D%3D)
-SQL is used to analyze a database for patients across the United States.  
+Discover the power of SQL in unraveling the landscape of patient demographics, trends, and healthcare insights spanning the vast expanse of the United States. Dive into the heart of databases to uncover patterns, disparities, and opportunities for improving healthcare delivery nationwide.
 
 #### [NBA Project](https://public.tableau.com/app/profile/hala.abueideh/viz/NBAproject_17094247499240/Analysisformar2nd2024?publish=yes)
  [<img src="images/NBA LOGO.png"/>](https://public.tableau.com/app/profile/hala.abueideh/viz/NBAproject_17094247499240/Analysisformar2nd2024?publish=yes)
