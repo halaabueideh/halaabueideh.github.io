@@ -6,9 +6,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   When I'm not immersed in data, you will probably find me in the kitchen. 
   I am eager to share my experiences, insights, and recipes as you embark on my data-filled adventure, infused with creativity and fun. 
   <br><br>
-  <a href="https://www.linkedin.com/in/hala-abueideh">View My LinkedIn Profile</a>  
+  <a href="https://www.linkedin.com/in/hala-abueideh">View My LinkedIn Profile</a>   <br><br>
   <a href="mailto:hala.abueideh@gmail.com">Email me</a>
  
+    <br><br>
     <br><br>
     ---
 theme: jekyll-theme-minimal
