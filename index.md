@@ -28,7 +28,6 @@ Discover the power of SQL in unraveling the landscape of patient demographics, t
 
 Utilizing Tableau, a comprehensive analysis of 2021 NBA data has been conducted, focusing on scores, player positions, and other key attributes. Through visually compelling graphics, the dashboard presents insights into team points and player performance.
 
----
 
 
 
