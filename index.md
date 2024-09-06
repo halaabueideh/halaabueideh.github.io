@@ -30,9 +30,5 @@ Utilizing Tableau, a comprehensive analysis of 2021 NBA data has been conducted,
 
 ---
 
-#### [Iron Mining Using Python](https://www.linkedin.com/pulse/iron-mining-analysis-using-python-hala-abueideh-i2jsc/?trackingId=Lvm9l5YATLW2xz79NameBw%3D%3D)
- [<img src="images/Cover_final.jpeg"/>](https://www.linkedin.com/pulse/iron-mining-analysis-using-python-hala-abueideh-i2jsc/?trackingId=Lvm9l5YATLW2xz79NameBw%3D%3D)
-
-Utilizing Tableau, a comprehensive analysis of 2021 NBA data has been conducted, focusing on scores, player positions, and other key attributes. Through visually compelling graphics, the dashboard presents insights into team points and player performance
 
 
